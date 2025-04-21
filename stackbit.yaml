@@ -1,0 +1,5 @@
+
+stackbit_version: ~0.3.0
+ssg_name: custom
+build_command: ""
+publish_dir: .
